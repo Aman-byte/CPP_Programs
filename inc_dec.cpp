@@ -1,4 +1,9 @@
 //Increment ans Decrement Operators
+// Difference Between ++x and x++
+// let x = 5
+// y=++x;  this means that x + 1 = 6 and then y = 6
+// y=x++;  this means that x + 1 = 6 and then y = 5
+
 #include <iostream>
 using namespace std;
 int main()
