@@ -1,3 +1,14 @@
+/*
+Conditional Statements
+• If and else is used for writing conditional statement
+• If condition is true then if block is executed
+• If condition is false then else block is executed
+• 0 - means false
+• 1- means true or non0zero value is also true
+If can be nested inside if as well as else statement
+Nesting of is is also written as else-if ladder
+*/
+
 Types of Control Statements in C++:
 if-else statement:
 if-else statement is used to execute a statement block. It has the following syntax :
