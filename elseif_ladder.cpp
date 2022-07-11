@@ -26,3 +26,4 @@ int main()
         else
              cout<<"invalid day no"<<endl;
         return 0;
+}
